@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCF\bin\pryWCF.dll.config
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCF\bin\pryWCF.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCF\bin\pryWCF.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCF\obj\Debug\pryWCF.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCF\obj\Debug\pryWCF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCF\obj\Debug\pryWCF.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCF\obj\Debug\pryWCF.pdb

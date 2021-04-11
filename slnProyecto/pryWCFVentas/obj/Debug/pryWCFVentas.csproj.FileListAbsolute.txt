@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCFVentas\bin\pryWCFVentas.dll.config
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCFVentas\bin\pryWCFVentas.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCFVentas\bin\pryWCFVentas.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCFVentas\obj\Debug\pryWCFVentas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCFVentas\obj\Debug\pryWCFVentas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCFVentas\obj\Debug\pryWCFVentas.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryWCFVentas\obj\Debug\pryWCFVentas.pdb

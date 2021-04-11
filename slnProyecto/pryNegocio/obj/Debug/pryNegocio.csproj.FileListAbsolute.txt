@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\bin\Debug\pryNegocio.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\bin\Debug\pryNegocio.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\bin\Debug\pryDatos.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\bin\Debug\pryEntidad.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\bin\Debug\pryDatos.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\bin\Debug\pryEntidad.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\obj\Debug\pryNegocio.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\obj\Debug\pryNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\obj\Debug\pryNegocio.csproj.CopyComplete
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\obj\Debug\pryNegocio.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryNegocio\obj\Debug\pryNegocio.pdb

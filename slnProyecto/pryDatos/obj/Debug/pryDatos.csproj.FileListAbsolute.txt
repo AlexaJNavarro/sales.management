@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\bin\Debug\pryDatos.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\bin\Debug\pryDatos.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\bin\Debug\pryEntidad.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\bin\Debug\pryEntidad.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\obj\Debug\pryDatos.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\obj\Debug\pryDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\obj\Debug\pryDatos.csproj.CopyComplete
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\obj\Debug\pryDatos.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\pryDatos\obj\Debug\pryDatos.pdb
